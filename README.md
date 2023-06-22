@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am MinaAyana
+I am currently learning Javascript
+I am looking for help with learning Loops
+I am looking to collaborate on anything, always up for extra practice
